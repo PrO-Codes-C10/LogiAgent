@@ -1,5 +1,10 @@
 # 📦 LogiAgent: AI-Powered Logistics & Shipment Tracking Agent
 
+[![LogiAgent CI](https://github.com/PrO-Codes-C10/LogiAgent/actions/workflows/ci.yml/badge.svg)](https://github.com/PrO-Codes-C10/LogiAgent/actions/workflows/ci.yml)
+![Python Version](https://img.shields.io/badge/python-3.10%20%7C%203.11%20%7C%203.12%20%7C%203.13-blue)
+![Tests](https://img.shields.io/badge/unit%20tests-9%20passed-brightgreen)
+![License](https://img.shields.io/badge/license-MIT-green)
+
 > **An intelligent agent that tracks parcels, computes real-time geodesic ETAs from live GPS data streams, registers exception tickets, and protects sensitive customer data via PII masking.**
 
 ---
